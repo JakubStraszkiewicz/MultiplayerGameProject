@@ -1,0 +1,19 @@
+﻿Build started 2017-03-28 13:46:18.
+     1>Project "E:\PROJEKT\ProgramowanieRozproszone\ProgramowanieRozproszoneKlient\ProgramowanieRozproszoneKlient\ProgramowanieRozproszoneKlient.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /I"E:\PROJEKT\ProgramowanieRozproszone\SFML-2.4.2\include" /ZI /nologo /W3 /WX- /sdl /Od /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt mainKlient.cpp MainMenu.cpp
+         MainMenu.cpp
+     1>e:\projekt\programowanierozproszone\programowanierozproszoneklient\programowanierozproszoneklient\mainmenu.cpp(42): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+     1>e:\projekt\programowanierozproszone\programowanierozproszoneklient\programowanierozproszoneklient\mainmenu.cpp(55): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+     1>e:\projekt\programowanierozproszone\programowanierozproszoneklient\programowanierozproszoneklient\mainmenu.cpp(67): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+         mainKlient.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"E:\PROJEKT\ProgramowanieRozproszone\ProgramowanieRozproszoneKlient\x64\Debug\ProgramowanieRozproszoneKlient.exe" /INCREMENTAL /NOLOGO /LIBPATH:"E:\PROJEKT\ProgramowanieRozproszone\SFML-2.4.2\lib" "sfml-graphics-d.lib" "sfml-system-d.lib" "sfml-main-d.lib" "sfml-window-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG:FASTLINK /PDB:"E:\PROJEKT\ProgramowanieRozproszone\ProgramowanieRozproszoneKlient\x64\Debug\ProgramowanieRozproszoneKlient.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\PROJEKT\ProgramowanieRozproszone\ProgramowanieRozproszoneKlient\x64\Debug\ProgramowanieRozproszoneKlient.lib" /MACHINE:X64 x64\Debug\mainKlient.obj
+         x64\Debug\MainMenu.obj
+     1>sfml-graphics-d.lib(sfml-graphics-d-2.dll) : fatal error LNK1112: module machine type 'X86' conflicts with target machine type 'x64'
+     1>Done Building Project "E:\PROJEKT\ProgramowanieRozproszone\ProgramowanieRozproszoneKlient\ProgramowanieRozproszoneKlient\ProgramowanieRozproszoneKlient.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:08.44

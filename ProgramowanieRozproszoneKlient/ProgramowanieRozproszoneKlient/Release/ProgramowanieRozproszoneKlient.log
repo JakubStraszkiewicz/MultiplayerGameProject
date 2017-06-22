@@ -1,0 +1,20 @@
+﻿Build started 2017-04-07 14:58:58.
+     1>Project "E:\PROJEKT\ProgramowanieRozproszone\ProgramowanieRozproszoneKlient\ProgramowanieRozproszoneKlient\ProgramowanieRozproszoneKlient.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\PROJEKT\ProgramowanieRozproszone\ProgramowanieRozproszoneKlient\Release\ProgramowanieRozproszoneKlient.exe" /NOLOGO /LIBPATH:"E:\PROJEKT\ProgramowanieRozproszone\SFML-2.4.2\lib" jpeg.lib "sfml-audio-d.lib" "sfml-graphics-d.lib" "sfml-main-d.lib" "sfml-network-d.lib" "sfml-system-d.lib" "sfml-window-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\PROJEKT\ProgramowanieRozproszone\ProgramowanieRozproszoneKlient\Release\ProgramowanieRozproszoneKlient.pdb" /OPT:REF /OPT:ICF /LTCG:incremental /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\PROJEKT\ProgramowanieRozproszone\ProgramowanieRozproszoneKlient\Release\ProgramowanieRozproszoneKlient.lib" /MACHINE:X86 /SAFESEH Release\Client.obj
+         Release\Game.obj
+         Release\mainKlient.obj
+         Release\MainMenu.obj
+         Release\mapElement.obj
+         Release\Player.obj
+         Generating code
+         0 of 124 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+           0 functions were new in current compilation
+           0 functions had inline decision re-evaluated but remain unchanged
+         Finished generating code
+         ProgramowanieRozproszoneKlient.vcxproj -> E:\PROJEKT\ProgramowanieRozproszone\ProgramowanieRozproszoneKlient\Release\ProgramowanieRozproszoneKlient.exe
+     1>Done Building Project "E:\PROJEKT\ProgramowanieRozproszone\ProgramowanieRozproszoneKlient\ProgramowanieRozproszoneKlient\ProgramowanieRozproszoneKlient.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.67

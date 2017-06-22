@@ -1,0 +1,5 @@
+﻿Instrukcja uruchamiania:
+zmienic sciezki include i lib. abu uruchomic na debug 
+w paczce exe dzialajacy.
+klient ilosc_graczy ip port
+server ilosc_graczy port
